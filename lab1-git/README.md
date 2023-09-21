@@ -1,1 +1,3 @@
 # DEV5-LAB1
+
+We made a voice-controlled music player by saying 'speel muziek' and 'stop muziek'. 
