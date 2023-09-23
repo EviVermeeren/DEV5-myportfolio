@@ -6,4 +6,4 @@ We made a voice-controlled music player by saying 'speel muziek' and 'stop muzie
 </br>
 [Link to website](https://evivermeeren.github.io/DEV5-LAB1/)
 </br>
-[Link to codesandbox]([https://evivermeeren.github.io/DEV5-LAB1/](https://codesandbox.io/s/speech-music-7qswsd?file=/index.html)https://codesandbox.io/s/speech-music-7qswsd?file=/index.html)
+[Link to codesandbox][(https://codesandbox.io/s/speech-music-7qswsd?file=/index.html)
